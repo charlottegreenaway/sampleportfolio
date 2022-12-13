@@ -1,0 +1,12 @@
+h1{
+	font-family: ariel,helvetica, sans-serif;
+	color: black;
+	font-size:50px;
+	
+}
+header{
+	background-image: url("mercedes_header.jfif");
+	background-color: #cccccc;
+	background-size: cover;
+
+}
